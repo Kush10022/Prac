@@ -58,5 +58,5 @@ By signing this working agreement, both parties acknowledge and accept the terms
 
 **Client's Signature: [Here] Date: [12th October, 2023]**
 
-**Development Team's Signature: [Group 3] Date: [12th October, 2023]**
+**Development Team's Signature: Group 3 Date: 12th October, 2023**
 
