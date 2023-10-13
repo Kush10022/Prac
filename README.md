@@ -8,7 +8,7 @@
 **Parties Involved:**
 
 - **Client:** Whatever Client Name
-- **Development Team:** Group 3 (Kush Patel, Sidhant Sharma, Ujjval Patel, Harnoor Kaur)
+- **Development Team:** Group 3 : Kush Patel, Sidhant Sharma, Ujjval Patel, Harnoor Kaur
 
 **Purpose:**
 
@@ -56,7 +56,7 @@ This working agreement outlines the terms and conditions for the development of 
 
 By signing this working agreement, both parties acknowledge and accept the terms and conditions outlined herein.
 
-**Client's Signature: [Here] Date: [12th October, 2023]**
+**Client's Signature: [Here] Date: 12th October, 2023**
 
 **Development Team's Signature: Group 3 Date: 12th October, 2023**
 
