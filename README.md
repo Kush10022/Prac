@@ -60,18 +60,3 @@ By signing this working agreement, both parties acknowledge and accept the terms
 
 **Development Team's Signature: Group 3 Date: 12th October, 2023**
 
-
-
-
-
-_________________________
-
-**Change Requests:**
-
-- Any changes to the project scope or requirements must be documented and may result in adjustments to the project timeline and budget.
-
-**Confidentiality:**
-
-- Both parties agree to maintain the confidentiality of all project-related information and data.
-
-**Legal Compliance:**
